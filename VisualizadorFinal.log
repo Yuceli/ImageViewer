@@ -1,0 +1,3 @@
+Línea 14: la clase csXImageTrial.ImageBox del control ImageBox1 no era una clase de control cargada.
+Línea 251: la clase csXImageTrial.ImageBox del control ImageBox2 no era una clase de control cargada.
+Línea 571: la clase MSComDlg.CommonDialog del control dlgCommonDialog no era una clase de control cargada.
